@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@plugin "tailwindcss-motion";
+
+@theme {
+  --color-iris-50: #E0DFFE;
+  --color-iris-100: #B1A9FF;
+  --color-iris-200: #6E6ADE;
+  --color-iris-300: #5B5BD6;
+  --color-iris-400: #5958B1;
+  --color-iris-500: #4A4A95;
+  --color-iris-600: #3D3E82;
+  --color-iris-700: #303374;
+  --color-iris-800: #262A65;
+  --color-iris-900: #202248;
+  --color-iris-950: #171625;
+  --color-iris-1000: #13131E;
+}
+
+:root{
+  background-color: #13131E;
+}
+
+h1,h2,h3{
+  font-family:"Rubik", sans-serif;
+}
+
+p, a, span, button{
+  font-family:"Lato", sans-serif;
+}
