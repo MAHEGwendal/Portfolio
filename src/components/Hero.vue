@@ -11,7 +11,7 @@
         </p>
         <div class="flex justify-center lg:justify-start gap-10 lg:gap-15 mt-5 ">
           <button class="btn bg-iris-200 rounded-xl p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition motion-preset-expand motion-duration-[2s]" @click="smoothScrollToProjets">Voir mes<br />projets</button>
-          <a href="../../public/doc/MAHE_CV.pdf" target="blank"><button class="btn btn-outline rounded-xl border-2 border-iris-200 p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition motion-preset-expand motion-duration-[2s]">
+          <a href="/doc/MAHE_CV.pdf" target="blank"><button class="btn btn-outline rounded-xl border-2 border-iris-200 p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition motion-preset-expand motion-duration-[2s]">
             Télécharger<br />mon CV
           </button></a>
         </div>

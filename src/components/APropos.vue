@@ -13,7 +13,7 @@
           un environnement professionnel stimulant.
         </p>
         <div class="flex justify-center md:justify-start">
-          <a href="../../public/doc/MAHE_CV.pdf" target="blank"><button class="btn btn-outline rounded-xl border-2 border-iris-200 p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
+          <a href="/doc/MAHE_CV.pdf" target="blank"><button class="btn btn-outline rounded-xl border-2 border-iris-200 p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
             Télécharger<br />mon CV
           </button></a>
         </div>

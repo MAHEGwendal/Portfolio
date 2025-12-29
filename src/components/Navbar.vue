@@ -12,7 +12,7 @@
           <li><a href="#competences" @click="smoothScroll">Compétences</a></li>
           <li><a href="#projets" @click="smoothScroll">Projets</a></li>
           <li class="hover:bg-transparent hover:shadow-none">
-            <a href="../../public/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 border-iris-200 p-5 text-sm
+            <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 border-iris-200 p-5 text-sm
                hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
               Télécharger<br />mon CV
             </a>
