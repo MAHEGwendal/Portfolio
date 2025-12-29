@@ -1,19 +1,19 @@
 <template>
   <header
-    class="fixed w-full top-0 z-50 bg-iris-900 font-bold lg:motion-translate-x-in-[0%] lg:motion-translate-y-in-[-180%]">
+    class="fixed w-full top-0 z-50 bg-iris-900 font-bold lg:motion-translate-x-in-[0%] lg:motion-translate-y-in-[-180%] lg:motion-duration-[2s]">
     <div class="container mx-auto flex justify-between items-center p-3 relative ">
       <!-- Logo -->
-      <h1 class="text-3xl">Gwendal Mahé</h1>
+      <h1 class="text-3xl text-iris-100">Gwendal Mahé</h1>
 
       <!-- Desktop Navigation -->
       <nav class="hidden md:flex space-x-6 justify-center items-center text-xl">
-        <ul class="menu menu-horizontal px-0 gap-4 text-xl font-bold">
-          <li><a href="#home" @click="smoothScroll">Acceuil</a></li>
-          <li><a href="#apropos" @click="smoothScroll">A propos</a></li>
-          <li><a href="#competences" @click="smoothScroll">Compétences</a></li>
-          <li><a href="#projets" @click="smoothScroll">Projets</a></li>
+        <ul class="menu menu-horizontal px-0 gap-4 text-xl font-bold text-iris-50 ">
+          <li><a href="#home" @click="smoothScroll" class=" rounded-xl hover:bg-iris-100/20">Acceuil</a></li>
+          <li><a href="#apropos" @click="smoothScroll" class=" rounded-xl hover:bg-iris-100/20" >A propos</a></li>
+          <li><a href="#competences" @click="smoothScroll" class=" rounded-xl hover:bg-iris-100/20">Compétences</a></li>
+          <li><a href="#projets" @click="smoothScroll" class=" rounded-xl hover:bg-iris-100/20">Projets</a></li>
           <li class="hover:bg-transparent hover:shadow-none">
-            <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 border-iris-200 p-5 text-sm
+            <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline text-iris-50 rounded-xl border-2 border-iris-200 p-5 text-sm
                hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
               Télécharger<br />mon CV
             </a>
@@ -22,7 +22,7 @@
       </nav>
 
       <!-- Mobile Menu Button -->
-      <button @click="navOpen = !navOpen" class="md:hidden focus:outline-none z-50 relative "
+      <button @click="navOpen = !navOpen" class="md:hidden focus:outline-none z-50 relative text-iris-50 "
         aria-label="Toggle navigation">
         <svg v-show="!navOpen" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
           stroke="currentColor" class="w-10 h-10">
@@ -41,7 +41,7 @@
       leave-from-class="translate-x-0" leave-to-class="translate-x-full">
       <nav v-show="navOpen"
         class="fixed inset-0 bg-iris-900  p-4 transform z-40 justify-center items-center flex flex-col md:hidden text-3xl">
-        <ul class="flex flex-col gap-6 items-center w-full">
+        <ul class="flex flex-col gap-6 items-center w-full text-iris-50">
           <li>
             <a href="#home" @click="navOpen = false; smoothScroll"
               class="motion-preset-expand motion-delay-100 motion-duration-[1s]">Accueil</a>
@@ -58,7 +58,7 @@
             <a href="#projets" @click="navOpen = false; smoothScroll"
               class="motion-preset-expand motion-delay-100 motion-duration-[1s]">Projets</a>
           </li>
-          <li> <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 border-iris-200 p-5 text-sm
+          <li> <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 text-iris-50 border-iris-200 p-5 text-sm
                hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
               Télécharger<br />mon CV
             </a></li>

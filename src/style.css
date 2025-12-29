@@ -21,6 +21,10 @@
   background-color: #13131E;
 }
 
+* {
+  color-scheme: dark;
+}
+
 h1,h2,h3{
   font-family:"Rubik", sans-serif;
 }

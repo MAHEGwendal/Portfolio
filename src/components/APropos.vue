@@ -2,7 +2,7 @@
   <div>
     <div class="flex flex-col md:flex-row p-4 md:p-10 gap-6 md:gap-10">
       <div class="md:flex-1">
-        <h2 class="text-4xl font-bold mb-5 text-iris-100 md:text-left motion-preset-slide-up motion-delay-200">- A propos</h2>
+        <h2 class="text-4xl font-bold mb-5 text-iris-100 md:text-left">- A propos</h2>
         <p class="text-lg mb-5 text-iris-50 text-center md:text-left">
           Je m'appelle Gwendal Mahé, développeur web passionné et autodidacte.<br />
           Actuellement en Titre Professionnel Concepteur Développeur d'Applications Java chez Dawan Nantes, je développe
@@ -13,7 +13,7 @@
           un environnement professionnel stimulant.
         </p>
         <div class="flex justify-center md:justify-start">
-          <a href="/doc/MAHE_CV.pdf" target="blank"><button class="btn btn-outline rounded-xl border-2 border-iris-200 p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
+          <a href="/doc/MAHE_CV.pdf" target="blank"><button class="btn btn-outline text-iris-50 rounded-xl border-2 border-iris-200 p-8 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
             Télécharger<br />mon CV
           </button></a>
         </div>

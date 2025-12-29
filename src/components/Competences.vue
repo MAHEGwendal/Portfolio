@@ -78,8 +78,8 @@
           <span class="text-white font-bold text-center text-sm">Eclipse</span>
         </div>
         <div class="border border-iris-400/50 rounded-2xl p-6 bg-iris-950/50 hover:shadow-xl hover:shadow-iris-50/10 hover:scale-105 transition flex flex-col items-center justify-center min-h-32">
-          <img src="/images/postman.svg" alt="Postman" class="w-12 h-12 mb-3" />
-          <span class="text-white font-bold text-center text-sm">Postman</span>
+          <img src="/images/figma.svg" alt="Figma" class="w-12 h-12 mb-3" />
+          <span class="text-white font-bold text-center text-sm">Figma</span>
         </div>
       </div>
     </div>

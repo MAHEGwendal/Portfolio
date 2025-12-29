@@ -12,7 +12,7 @@
 
                 <a href="mailto:mahegwendal8@gmail.com">
                 <button
-                    class="btn bg-iris-200 rounded-xl p-6 mb-5 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition"
+                    class="btn text-iris-50 bg-iris-200 border-none rounded-xl p-6 mb-5 text-lg hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/30 hover:scale-105 transition"
                     >Discutons !
                 </button>
                 </a>
