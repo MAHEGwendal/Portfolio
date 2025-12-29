@@ -1,5 +1,6 @@
 <template>
-  <header class="fixed w-full top-0 z-50 bg-iris-900 font-bold lg:motion-translate-x-in-[0%] lg:motion-translate-y-in-[-180%]">
+  <header
+    class="fixed w-full top-0 z-50 bg-iris-900 font-bold lg:motion-translate-x-in-[0%] lg:motion-translate-y-in-[-180%]">
     <div class="container mx-auto flex justify-between items-center p-3 relative ">
       <!-- Logo -->
       <h1 class="text-3xl">Gwendal Mahé</h1>
@@ -57,10 +58,10 @@
             <a href="#projets" @click="navOpen = false; smoothScroll"
               class="motion-preset-expand motion-delay-100 motion-duration-[1s]">Projets</a>
           </li>
-          <li> <button
-              class="btn btn-outline rounded-xl border-2 border-iris-200 p-8 text-xl hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
+          <li> <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 border-iris-200 p-5 text-sm
+               hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
               Télécharger<br />mon CV
-            </button></li>
+            </a></li>
         </ul>
       </nav>
     </Transition>
