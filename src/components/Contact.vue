@@ -20,10 +20,10 @@
         </div>
 
         <div class="flex justify-center gap-12 pb-10">
-            <a href="#" class="hover:scale-110 transition-transform">
+            <a href="https://github.com/MAHEGwendal" class="hover:scale-110 transition-transform">
                 <img src="/images/github_logo.webp" alt="Logo Github" class="size-15 lg:size-18" />
             </a>
-            <a href="#" class="hover:scale-110 transition-transform">
+            <a href="https://www.linkedin.com/in/gwendal-mahé-72ab202b7/" class="hover:scale-110 transition-transform">
                 <img src="/images/LinkedIn_logo.png" alt="Logo LinkedIn" class="size-15 lg:size-18" />
             </a>
             <a href="mailto:mahegwendal8@gmail.com">
