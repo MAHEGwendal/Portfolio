@@ -109,6 +109,13 @@ const slides = ref([
         link: 'https://instantgeek.netlify.app',
         description: 'Faux site de vente de clés de jeux'
     },
+        {
+        src: '/images/Dawan_Skills.png',
+        alt: 'Dawan skills',
+        name: 'Dawan skills',
+        link: 'https://skills.dawan.fr/#/',
+        description: "Site d'apprentissage via des quiz"
+    },
     {
         src: '/images/COE33.png',
         alt: 'Clair Obscur',
@@ -129,13 +136,6 @@ const slides = ref([
         name: 'Le Comptoir',
         link: 'https://mahegwendal.github.io/Site_resto_test.github.io/',
         description: "Site test sur le thème d'un restaurant"
-    },
-    {
-        src: '/images/Lenny.png',
-        alt: 'Coach sportif',
-        name: 'Coach sportif',
-        link: 'https://lenny-coach-sportif-nantes.netlify.app/',
-        description: 'Site vitrine pour coach sportif'
     }
 ]);
 

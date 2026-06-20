@@ -4,8 +4,8 @@
       <div class="md:flex-1">
         <h2 class="text-4xl font-bold mb-5 text-iris-100 md:text-left">- A propos</h2>
         <p class="text-lg mb-5 text-iris-50 text-center md:text-left">
-          Je m'appelle Gwendal Mahé, développeur web passionné et autodidacte.<br />
-          Actuellement en Titre Professionnel Concepteur Développeur d'Applications Java chez Dawan Nantes, je développe
+          Je m'appelle Gwendal Mahé, développeur passionné et autodidacte.<br />
+          Admis au Mastère Développeur Fullstack de chez Sup de Vinci à Nantes. Je développe
           mes compétences en conception et développement d'applications, aussi bien côté backend que frontend.<br />
           <br />
           Curieux et motivé, j'aime apprendre à travers des projets concrets et relever de nouveaux défis techniques. Je
@@ -68,7 +68,7 @@
       </div>
     </div>
 
-    <h2 class="text-4xl font-bold  p-10 text-iris-100">- Formation</h2>
+    <h2 class="text-4xl font-bold  p-10 text-iris-100">- Formations</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-full px-4 md:px-10 pb-10">
       <!-- Formation 1 -->
       <div
@@ -85,8 +85,8 @@
             d="M4.462 19.462c.42-.419.753-.89 1-1.395.453.214.902.435 1.347.662a6.742 6.742 0 0 1-1.286 1.794.75.75 0 0 1-1.06-1.06Z">
           </path>
         </svg>
-        <h3 class="text-white font-bold text-lg mb-2">Titre Professionnel Concepteur Développeur d'Applications</h3>
-        <p class="text-iris-200 text-sm">Dawan, Nantes | 2025-2026</p>
+        <h3 class="text-white font-bold text-lg mb-2">Mastère Développeur Fullstack - Bac+5</h3>
+        <p class="text-iris-200 text-sm">Sup de Vinci, Nantes | 2026-2028</p>
       </div>
 
       <!-- Formation 2 -->
@@ -104,8 +104,8 @@
             d="M4.462 19.462c.42-.419.753-.89 1-1.395.453.214.902.435 1.347.662a6.742 6.742 0 0 1-1.286 1.794.75.75 0 0 1-1.06-1.06Z">
           </path>
         </svg>
-        <h3 class="text-white font-bold text-lg mb-2">POE frontend</h3>
-        <p class="text-iris-200 text-sm">Dawan, Nantes | 2025</p>
+        <h3 class="text-white font-bold text-lg mb-2">Titre Professionnel Concepteur Développeur d'Applications - Bac+3</h3>
+        <p class="text-iris-200 text-sm">Dawan, Nantes | 2025-2026</p>
       </div>
 
       <!-- Formation 3 -->
@@ -123,9 +123,48 @@
             d="M4.462 19.462c.42-.419.753-.89 1-1.395.453.214.902.435 1.347.662a6.742 6.742 0 0 1-1.286 1.794.75.75 0 0 1-1.06-1.06Z">
           </path>
         </svg>
-        <h3 class="text-white font-bold text-lg mb-2">BTS Systèmes Numérique option Informatique et Réseaux</h3>
+        <h3 class="text-white font-bold text-lg mb-2">POE Intégrateur Front-End</h3>
+        <p class="text-iris-200 text-sm">Dawan, Nantes | 2025</p>
+      </div>
+
+      <!-- Formation 4 -->
+      <div
+        class="border border-iris-400/50 rounded-2xl p-6 bg-iris-950/50 hover:shadow-xl hover:shadow-iris-50/10 hover:scale-101 transition">
+        <svg class="w-8 h-8 text-iris-400 mb-4" fill="currentColor" viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path
+            d="M11.7 2.805a.75.75 0 0 1 .6 0A60.65 60.65 0 0 1 22.83 8.72a.75.75 0 0 1-.231 1.337 49.948 49.948 0 0 0-9.902 3.912l-.003.002c-.114.06-.227.119-.34.18a.75.75 0 0 1-.707 0A50.88 50.88 0 0 0 7.5 12.173v-.224c0-.131.067-.248.172-.311a54.615 54.615 0 0 1 4.653-2.52.75.75 0 0 0-.65-1.352 56.123 56.123 0 0 0-4.78 2.589 1.858 1.858 0 0 0-.859 1.228 49.803 49.803 0 0 0-4.634-1.527.75.75 0 0 1-.231-1.337A60.653 60.653 0 0 1 11.7 2.805Z">
+          </path>
+          <path
+            d="M13.06 15.473a48.45 48.45 0 0 1 7.666-3.282c.134 1.414.22 2.843.255 4.284a.75.75 0 0 1-.46.711 47.87 47.87 0 0 0-8.105 4.342.75.75 0 0 1-.832 0 47.87 47.87 0 0 0-8.104-4.342.75.75 0 0 1-.461-.71c.035-1.442.121-2.87.255-4.286.921.304 1.83.634 2.726.99v1.27a1.5 1.5 0 0 0-.14 2.508c-.09.38-.222.753-.397 1.11.452.213.901.434 1.346.66a6.727 6.727 0 0 0 .551-1.607 1.5 1.5 0 0 0 .14-2.67v-.645a48.549 48.549 0 0 1 3.44 1.667 2.25 2.25 0 0 0 2.12 0Z">
+          </path>
+          <path
+            d="M4.462 19.462c.42-.419.753-.89 1-1.395.453.214.902.435 1.347.662a6.742 6.742 0 0 1-1.286 1.794.75.75 0 0 1-1.06-1.06Z">
+          </path>
+        </svg>
+        <h3 class="text-white font-bold text-lg mb-2">BTS Systèmes Numérique option Informatique et Réseaux - Bac +2</h3>
         <p class="text-iris-200 text-sm">Lycée Bréquigny, Rennes | 2022-2024</p>
       </div>
+
+      <!-- Formation 5 -->
+             <div
+        class="border border-iris-400/50 rounded-2xl p-6 bg-iris-950/50 hover:shadow-xl hover:shadow-iris-50/10 hover:scale-101 transition">
+        <svg class="w-8 h-8 text-iris-400 mb-4" fill="currentColor" viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path
+            d="M11.7 2.805a.75.75 0 0 1 .6 0A60.65 60.65 0 0 1 22.83 8.72a.75.75 0 0 1-.231 1.337 49.948 49.948 0 0 0-9.902 3.912l-.003.002c-.114.06-.227.119-.34.18a.75.75 0 0 1-.707 0A50.88 50.88 0 0 0 7.5 12.173v-.224c0-.131.067-.248.172-.311a54.615 54.615 0 0 1 4.653-2.52.75.75 0 0 0-.65-1.352 56.123 56.123 0 0 0-4.78 2.589 1.858 1.858 0 0 0-.859 1.228 49.803 49.803 0 0 0-4.634-1.527.75.75 0 0 1-.231-1.337A60.653 60.653 0 0 1 11.7 2.805Z">
+          </path>
+          <path
+            d="M13.06 15.473a48.45 48.45 0 0 1 7.666-3.282c.134 1.414.22 2.843.255 4.284a.75.75 0 0 1-.46.711 47.87 47.87 0 0 0-8.105 4.342.75.75 0 0 1-.832 0 47.87 47.87 0 0 0-8.104-4.342.75.75 0 0 1-.461-.71c.035-1.442.121-2.87.255-4.286.921.304 1.83.634 2.726.99v1.27a1.5 1.5 0 0 0-.14 2.508c-.09.38-.222.753-.397 1.11.452.213.901.434 1.346.66a6.727 6.727 0 0 0 .551-1.607 1.5 1.5 0 0 0 .14-2.67v-.645a48.549 48.549 0 0 1 3.44 1.667 2.25 2.25 0 0 0 2.12 0Z">
+          </path>
+          <path
+            d="M4.462 19.462c.42-.419.753-.89 1-1.395.453.214.902.435 1.347.662a6.742 6.742 0 0 1-1.286 1.794.75.75 0 0 1-1.06-1.06Z">
+          </path>
+        </svg>
+        <h3 class="text-white font-bold text-lg mb-2">BAC STI2D spécialité systèmes d'information et numérique</h3>
+        <p class="text-iris-200 text-sm">Lycée Lesage, Vannes | 2020-2022</p>
+      </div>
+
     </div>
   </div>
 </template>
