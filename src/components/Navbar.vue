@@ -13,7 +13,7 @@
           <li><a href="#competences" @click="smoothScroll" class=" rounded-xl hover:bg-iris-100/20">Compétences</a></li>
           <li><a href="#projets" @click="smoothScroll" class=" rounded-xl hover:bg-iris-100/20">Projets</a></li>
           <li class="hover:bg-transparent hover:shadow-none">
-            <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline text-iris-50 rounded-xl border-2 border-iris-200 p-5 text-sm
+            <a href="/doc/MAHE_CV_SDV.pdf" target="_blank" class="btn btn-outline text-iris-50 rounded-xl border-2 border-iris-200 p-5 text-sm
                hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
               Télécharger<br />mon CV
             </a>
@@ -58,7 +58,7 @@
             <a href="#projets" @click="navOpen = false; smoothScroll"
               class="motion-preset-expand motion-delay-100 motion-duration-[1s]">Projets</a>
           </li>
-          <li> <a href="/doc/MAHE_CV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 text-iris-50 border-iris-200 p-5 text-sm
+          <li> <a href="/doc/MAHE_CV_SDV.pdf" target="_blank" class="btn btn-outline rounded-xl border-2 text-iris-50 border-iris-200 p-5 text-sm
                hover:bg-iris-300 hover:shadow-lg hover:shadow-iris-200/50 hover:scale-105 transition">
               Télécharger<br />mon CV
             </a></li>
